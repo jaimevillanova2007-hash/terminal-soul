@@ -91,8 +91,3 @@ while game_over == False:
         game_over = verify_winner(hp_hero,hp_enemy)
     
     show_state(name_hero,hp_hero,name_enemy,hp_enemy)
-
-
-
-    
-
